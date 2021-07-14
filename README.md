@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aijax5
 - 🌱 I’m a Full Stack Engineer at Folly.systems, I had previously interned with Qualcomm
-- 👀 I graduated in CS from BITS Pilani, India
+- 🏫 Alumni - BITS Pilani, India
 - 📫 you can reachout to me at theinputoutput@gmail.com
 
 <!---

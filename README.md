@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aijax5
-- 🌱 I’m a Full Stack Engineer at Folly.systems, I had previously interned with Qualcomm
+- 🌱 I’m a Full Stack Engineer at Folly.systems, Previously interned with Qualcomm, XIT Solutions, BotHook
 - 🏫 Alumni - BITS Pilani, India
 - 📫 you can reachout to me at theinputoutputguy@gmail.com
 
